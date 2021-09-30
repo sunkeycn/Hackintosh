@@ -28,4 +28,7 @@
     * Mem: 16G DDR4 4266
     * SSD: HikVision C2000Pro 512G SSD
     * Net: BCM94352Z
+
+
+[黑苹果常用驱动合集](https://github.com/ClayMoreBoy/Hackintosh-Kext-Factory)
    
